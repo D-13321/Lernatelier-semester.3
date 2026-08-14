@@ -22,12 +22,12 @@
 ### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Ideen zu neuen Projekten
-- [ ] Umsetzung des neuen Projektes Planen
+- [x] Ideen zu neuen Projekten
+- [x] Umsetzung des neuen Projektes Planen
 - [X] Vorbereitet das Projekt starten
-- [ ] Github ausfühlen
+- [x] Github ausfühlen
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe heute eine Liste mit Ideen gemacht, was mein nächstes Projekt sein wird. Dabei habe ich die Projektideen auf die Programmiersprachen aufgeteilt. Ich habe mich für ein neues Visual Studios 2026 entschieden, wo ich eine andere Projektvorlage nutze, welche viel Arbeitsrealistischer sind. Ich habe zuerst mir angeschaut wie die Vorlage funktioniert und dann mit dem Projekt angefangen. Github ausgefühlt.
 
 
 ### Planung 21.08.2026
