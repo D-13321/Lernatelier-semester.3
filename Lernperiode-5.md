@@ -43,9 +43,9 @@ Ich habe heute eine Liste mit Ideen gemacht, was mein nächstes Projekt sein wir
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Projekt weiter machen
+- [ ] neue Ideen hinzufügen
+- [ ] Github erledigen
 
 (Heute habe ich... (50-100 Wörter))
 
