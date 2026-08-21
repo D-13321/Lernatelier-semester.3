@@ -49,17 +49,6 @@ Heute habe ich die meiste Zeit, damit verbracht an meinem Projekt weiter zu arbe
 
 (Heute habe ich... (50-100 Wörter))
 
-
-### Planung 28.08.2026
-3 bis 5 klar messbare Arbeitspakete.
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
-(Heute habe ich... (50-100 Wörter))
-
-
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
