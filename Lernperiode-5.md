@@ -33,14 +33,14 @@ Ich habe heute eine Liste mit Ideen gemacht, was mein nächstes Projekt sein wir
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Projekt fertig machen
+- [x] neues hinzufügen
+- [X] Github erledigen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich die meiste Zeit, damit verbracht an meinem Projekt weiter zu arbeiten, ich habe eine 4. auswahl möglichkeit in meinem Verwaltungssystem eingefügt. Ich habe Github erledigt.
 
 
-### Planung 21.08.2026
+### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Projekt weiter machen
