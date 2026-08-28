@@ -43,18 +43,21 @@ Heute habe ich die meiste Zeit, damit verbracht an meinem Projekt weiter zu arbe
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Projekt weiter machen
-- [ ] neue Ideen hinzufügen
-- [ ] Github erledigen
+- [x] Projekt weiter machen
+- [x] neue Ideen hinzufügen
+- [x] Github erledigen
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe heute den Plan etwas geändert. Ich habe mir den heutigen tag genommen, um für mich eine einfache Tagesplanungsapp zu programmieren. 
+Ich habe mich für Visual Studio Code entschieden, darauf habe ich einen kurzen HTML und CSS code geschrieben. Weil es meine erste App dieser Art war, habe ich mir Hilfe aus dem Internet geholt, 
+wie Youtube Videos. Für den JavaScript teil habe ich mehr Hilfe gebraucht. Ich musste ebenfalls paar Sachen installieren, damit ich meine App über PS einfach zu starten ist. Die letzte eine Stunde habe ich weiter am Projekt investiert. 
+Das meiste aber nur um den Code cleaner zu machen.
 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] 5-7 Aspekte auf meiner neuen App schreiben, die ich bis zum nächsten Freitag erledigen will aufschreiben
+- [ ] Eine neue KLasse in meinem Verwaltungssystem Projekt einfügen
+- [ ] Mein Github vervollständigen
 
 (Heute habe ich... (50-100 Wörter))
 
