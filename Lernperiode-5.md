@@ -55,19 +55,19 @@ Das meiste aber nur um den Code cleaner zu machen.
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 5-7 Aspekte auf meiner neuen App schreiben, die ich bis zum nächsten Freitag erledigen will aufschreiben
-- [ ] Eine neue KLasse in meinem Verwaltungssystem Projekt einfügen
-- [ ] Mein Github vervollständigen
+- [x] 5-7 Aspekte auf meiner neuen App schreiben, die ich bis zum nächsten Freitag erledigen will aufschreiben
+- [x] Eine neue KLasse in meinem Verwaltungssystem Projekt einfügen
+- [x] Mein Github vervollständigen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich eine neue Klasse zu meinem C# Projekt hinzugefügt. Es ging viel einfacher jetzt, weil wir Klassen, Konstruktoren und Methoden im Modul 320 durchnehmen. Ich habe mir heute auch zwei weitere Videos zu c# angeschaut, die mir geholfen haben mein Projekt zu verbessern. Ich habe alle 5 Ziele die ich in meiner ToDo-App aufgeschrieben habe geschafft.
 
 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] 2 weitere Klassen zu meinem Verwaltungssystem hinzufügen und ihnen Methoden geben.
+- [ ] Ich möchte mir 30 Minuten nehmen um JavaScript zu lernen, ich fange damit an, weil ich es für ein Zufüntiges Projekt brauchen werde.
+- [ ] Mein Github vervollständigen
 
 (Heute habe ich... (50-100 Wörter))
 
