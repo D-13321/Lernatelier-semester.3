@@ -65,19 +65,23 @@ Heute habe ich eine neue Klasse zu meinem C# Projekt hinzugefügt. Es ging viel 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 2 weitere Klassen zu meinem Verwaltungssystem hinzufügen und ihnen Methoden geben.
-- [ ] Ich möchte mir 30 Minuten nehmen um JavaScript zu lernen, ich fange damit an, weil ich es für ein Zufüntiges Projekt brauchen werde.
-- [ ] Mein Github vervollständigen
+- [x] 2 weitere Klassen zu meinem Verwaltungssystem hinzufügen und ihnen Methoden geben.
+- [x] Ich möchte mir 30 Minuten nehmen um JavaScript zu lernen, ich fange damit an, weil ich es für ein Zufüntiges Projekt brauchen werde.
+- [x] Mein Github vervollständigen
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe heute die meiste Zeit damit verbracht, weitere Tutorials und Tools zu suchen, um mein Projekt nutzbar zu machen.
+Ich bin auf drei favoriten gekommen.
+Meine eigene Wochenplanungsapp habe ich etwas verändert, nur kleine CSS änderungen.
+Ich habe die zwei Klassen hinzugefügt. Einmal Interior und Tuneing.
+
 
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Finales Tool auswählen, welches ich benutzen werde um mein Skript zum Leben zu erwachen.
+- [ ] Skript für andere Informaiker freundlich machen, wie wir es im Modul 320 lernen.
+- [ ] Github erlädigen
 
 (Heute habe ich... (50-100 Wörter))
 
