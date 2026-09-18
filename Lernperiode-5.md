@@ -79,19 +79,19 @@ Ich habe die zwei Klassen hinzugefügt. Einmal Interior und Tuneing.
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Finales Tool auswählen, welches ich benutzen werde um mein Skript zum Leben zu erwachen.
-- [ ] Skript für andere Informaiker freundlich machen, wie wir es im Modul 320 lernen.
-- [ ] Github erlädigen
+- [x] Finales Tool auswählen, welches ich benutzen werde um mein Skript zum Leben zu erwachen.
+- [x] Skript für andere Informaiker freundlich machen, wie wir es im Modul 320 lernen.
+- [x] Github erlädigen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich mein C#-Verwaltungssystem weiter getestet und an der Funktionalität gearbeitet. Dabei konnte ich einige Fehler erkennen und verbessern. Ausserdem habe ich den bestehenden Code übersichtlicher strukturiert, damit ich später leichter weitere Funktionen ergänzen kann.
 
 
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] 2 Funktionen einfügen.
+- [ ] eine bestehende Klasse erweitern
+- [ ] Projekt kompilieren und testen.
 
 (Heute habe ich... (50-100 Wörter))
 
