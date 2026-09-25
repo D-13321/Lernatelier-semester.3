@@ -89,11 +89,17 @@ Heute habe ich mein C#-Verwaltungssystem weiter getestet und an der Funktionalit
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 2 Funktionen einfügen.
-- [ ] eine bestehende Klasse erweitern
-- [ ] Projekt kompilieren und testen.
+- [x] 2 Funktionen einfügen.
+- [x] eine bestehende Klasse erweitern
+- [x] Projekt kompilieren und testen.
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich mein Projekt erfolgreich abgeschlossen. Kommen wir zu den heutigen Zielen. Ich habe 2 Funktionen hinzugefügt, zu den letzten erstellten Klassen "Interior" und "Tuning".
+Ich habe die Klasse "Tuning" erweitert, genauer gesagt, habe ich mich diese Woche etwas mehr über das Tuning von Autos vor allem Mercedesmodelle auseinandergesetzt. Dieses Wissen konnte ich in der erweiterung der Klasse nutzen.
+Das Projekt wurde dann ein letztes mal durcharbeitet, verbessert und ein letztes mal getestet. Es funktiniert.
+Die restliche zeit, habe ich damit verbracht, mein Wissen und Arbeiten mit Git und Github zu verbessern. Ich habe die Lernstrategie Lernvideos genutzt.
+Ausserdem, habe ich noch etwas meine Ordner sortiert und übersichtlicher gestaltet.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+Diese Lernperiode hat mir persönlich bis jetzt am besten gefallen, dass liegt daran das ich diese Lernperiode wenig bis gar kein Problem mit dem hochladen auf Github hatte.
+Ich habe viel neues Wissen dazugelernt. 
+Mein Mercedes-Verwaltungsystem ist somit fertig. Dank dieser Lernperiode habe ich ein eweiteres nueues und gutes C# Projekt in meinem Projekteordner.
