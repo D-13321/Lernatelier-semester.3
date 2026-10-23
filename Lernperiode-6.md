@@ -74,11 +74,11 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Ich schaue mir ein ein 80 Minutiges Phyton einstieg Video (Schon vorbereitet)
-- [ ] Starte mein Phyton Programm und erstelle eine Projektmappe
-- [ ] Rechechiere für 2 mögliche Projekte die passen
-- [ ] entscheide mich für eins der beides Proejektideen
-- [ ] Fange das Projekt an und beginne mit den I von IPERKA
+- [x] Ich schaue mir ein ein 80 Minutiges Phyton einstieg Video (Schon vorbereitet)
+- [x] Starte mein Phyton Programm und erstelle eine Projektmappe
+- [x] Rechechiere für 2 mögliche Projekte die passen
+- [x] entscheide mich für eins der beides Proejektideen
+- [x] Fange das Projekt an und beginne mit den I von IPERKA
 
 
 #### Tagesreflexion
@@ -89,7 +89,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich ein langes Pythonvideo angeschaut und viel dabei gelernt. Danach habe ich mein Programm geöffnet und eine neue Projektmappe erstellt. Ich habe zwei mögliche Projekte gesucht und beide geprüft. Dann habe ich mich für eine Idee entschieden. Zum Schluss habe ich mit dem ersten Schritt von IPERKA begonnen und mich gut über mein Projekt informiert. Insgesamt war es ein erfolgreicher Tag.
 
 
 <!--
