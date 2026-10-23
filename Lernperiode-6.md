@@ -44,7 +44,7 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
 
-Ich möchte in dieser Lernperiode will ich Phyton lernen und ein gutes Projekt erstek^llen, das ich der Hitachi Energy zeigen kann. Mein Cousine hat sein IMS Praktikum dort abgeschlossen und hat mir den Ratschalg gegeben.
+Ich möchte in dieser Lernperiode will ich Phyton lernen und ein gutes Projekt erstellen, das ich der Hitachi Energy zeigen kann. Ein Verwandter hat sein IMS Praktikum dort abgeschlossen und hat mir den Ratschalg gegeben.
 
 ### Generelle Ziele
 <!--
