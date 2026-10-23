@@ -74,7 +74,7 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Ich schaue mir ein ein 80 Minutiges Phyton einstieg Video
+- [ ] Ich schaue mir ein ein 80 Minutiges Phyton einstieg Video (Schon vorbereitet)
 - [ ] Starte mein Phyton Programm und erstelle eine Projektmappe
 - [ ] Rechechiere für 2 mögliche Projekte die passen
 - [ ] entscheide mich für eins der beides Proejektideen
