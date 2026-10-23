@@ -107,9 +107,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Ein erwartetes Video schauen zu Phyton
+- [ ] Weiter führen in IPERKA
+- [ ] Github erledigen
 
 
 #### Tagesreflexion
