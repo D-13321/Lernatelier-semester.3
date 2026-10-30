@@ -107,9 +107,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Ein erwartetes Video schauen zu Phyton
-- [ ] Weiter führen in IPERKA
-- [ ] Github erledigen
+- [x] Ein erwartetes Video schauen zu Phyton
+- [x] Weiter führen in IPERKA
+- [x] Github erledigen
 
 
 #### Tagesreflexion
@@ -120,7 +120,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich das zweite erweiterte Video durchgeschaut und gleichzeitig an meinem Projekt weiter gearbeitet. Ich muss sagen ich bin viel weiter gekommen, als ich dachte. Die meiste Zeit hab ich dabei verbracht. den Rest habe ich damit verbracht nachzuschauen wie ich mein Projekt optimieren kann. Git wurde erledigt.
 
 
 <!--
@@ -138,9 +138,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Weiter Arbeiten am Projekt
+- [ ] Code verschönern
+- [ ] Github erledigen
 
 
 #### Tagesreflexion
