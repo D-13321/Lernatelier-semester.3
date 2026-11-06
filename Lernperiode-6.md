@@ -138,9 +138,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Weiter Arbeiten am Projekt
-- [ ] Code verschönern
-- [ ] Github erledigen
+- [x] Weiter Arbeiten am Projekt
+- [x] Code verschönern
+- [x] Github erledigen
 
 
 #### Tagesreflexion
@@ -151,43 +151,12 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
-
-
-<!--
-Fügen Sie hier die weiteren Tage der Lernperiode ein.
--->
-
-### Planung 13.11.2026
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
-
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
-
-#### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
-
-...Ihr Text...
-
+Heute habe ich mein Python Projekt weiterentwickelt und wichtige Fortschritte erzielt. Zudem habe ich den Code überarbeitet und lesbarer gestaltet. Github wurde erledigt und überarbeitet.
 
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
+
 
 ### Planung 20.11.2026
 <!--
@@ -200,9 +169,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Python-Projekt weiterentwickeln
+- [ ] Code optimieren und dokumentieren
+- [ ] Funktionen testen und Fehler beheben
+- [ ] Änderungen auf GitHub sichern
 
 
 #### Tagesreflexion
