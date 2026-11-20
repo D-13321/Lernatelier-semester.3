@@ -169,10 +169,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Python-Projekt weiterentwickeln
-- [ ] Code optimieren und dokumentieren
-- [ ] Funktionen testen und Fehler beheben
-- [ ] Änderungen auf GitHub sichern
+- [x] Python-Projekt weiterentwickeln
+- [x] Code optimieren und dokumentieren
+- [x] Funktionen testen und Fehler beheben
+- [x] Änderungen auf GitHub sichern
 
 
 #### Tagesreflexion
@@ -183,7 +183,11 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich mein Python‑Projekt gut vorangebracht. Ich konnte den Code weiterentwickeln und so anpassen, dass er übersichtlich bleibt. Dabei habe ich auch darauf geachtet, alles klar zu dokumentieren, damit ich später schnell verstehe, was ich gemacht habe.
+
+Beim Testen der Funktionen sind ein paar kleine Fehler aufgefallen, die ich direkt behoben habe. Das hat mir gezeigt, wie wichtig es ist, jeden Schritt genau zu prüfen, bevor ich weiterarbeite.
+
+Zum Schluss habe ich alle Änderungen auf GitHub gesichert. Das gibt mir ein gutes Gefühl, weil mein Fortschritt sauber gespeichert ist und ich jederzeit darauf zugreifen kann.
 
 
 <!--
@@ -201,9 +205,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Funktion planen und Struktur sauberer machen
+- [ ] Tests erweitern
+- [ ] Github fertigstellen
 
 
 #### Tagesreflexion
